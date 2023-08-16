@@ -18,7 +18,7 @@ function helloAPI(req, res) {
 
 /***/ }),
 
-/***/ 2095:
+/***/ 3169:
 /***/ (function(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -27,7 +27,7 @@ __webpack_require__.r(__webpack_exports__);
 
 // EXPORTS
 __webpack_require__.d(__webpack_exports__, {
-  "default": function() { return /* binding */ next_serverless_loaderpage_2Fapi_2Fhello_absolutePagePath_private_next_pages_2Fapi_2Fhello_js_absoluteAppPath_private_next_pages_2F_app_js_absoluteDocumentPath_private_next_pages_2F_document_js_absoluteErrorPath_next_2Fdist_2Fpages_2F_error_absolute404Path_distDir_private_dot_next_buildId_lPURg2bz8dNasUtjogjhX_assetPrefix_generateEtags_true_poweredByHeader_true_canonicalBase_basePath_runtimeConfig_previewProps_7B_22previewModeId_22_3A_2291eb72a1dbc4e4697d7f47459823d8c1_22_2C_22previewModeSigningKey_22_3A_22771be79874a3cdee486324a16f26e4bd816feeced5e798e28c4ab950226456c2_22_2C_22previewModeEncryptionKey_22_3A_22f68bdec14af578ae8f9e911455e742ab94c6b33095321692360a65704fa54080_22_7D_loadedEnvFiles_W10_3D_i18n_7B_22locales_22_3A_5B_22en_22_5D_2C_22defaultLocale_22_3A_22en_22_7D_; }
+  "default": function() { return /* binding */ next_serverless_loaderpage_2Fapi_2Fhello_absolutePagePath_private_next_pages_2Fapi_2Fhello_js_absoluteAppPath_private_next_pages_2F_app_js_absoluteDocumentPath_private_next_pages_2F_document_js_absoluteErrorPath_next_2Fdist_2Fpages_2F_error_absolute404Path_distDir_private_dot_next_buildId_oXNIHHdZsAouMjLvDauuG_assetPrefix_generateEtags_true_poweredByHeader_true_canonicalBase_basePath_runtimeConfig_previewProps_7B_22previewModeId_22_3A_22084d45e1af40526fe14ab98738d09e81_22_2C_22previewModeSigningKey_22_3A_2213c9db85d87087a8866ade9f72bfaedfd56d3e26778c87b090e61eabdf26bfb9_22_2C_22previewModeEncryptionKey_22_3A_22e2a62d10ce969438a71566ef3372e429ab9e73048306ebf47d436dd6ff3fb204_22_7D_loadedEnvFiles_W10_3D_i18n_7B_22locales_22_3A_5B_22en_22_5D_2C_22defaultLocale_22_3A_22en_22_7D_; }
 });
 
 // EXTERNAL MODULE: ./node_modules/next/dist/next-server/server/node-polyfill-fetch.js
@@ -36,7 +36,7 @@ var node_polyfill_fetch = __webpack_require__(3660);
 var routes_manifest_namespaceObject = {"Dg":[]};
 // EXTERNAL MODULE: ./node_modules/next/dist/build/webpack/loaders/next-serverless-loader/api-handler.js
 var api_handler = __webpack_require__(8277);
-;// CONCATENATED MODULE: ./node_modules/next/dist/build/webpack/loaders/next-serverless-loader/index.js?page=%2Fapi%2Fhello&absolutePagePath=private-next-pages%2Fapi%2Fhello.js&absoluteAppPath=private-next-pages%2F_app.js&absoluteDocumentPath=private-next-pages%2F_document.js&absoluteErrorPath=next%2Fdist%2Fpages%2F_error&absolute404Path=&distDir=private-dot-next&buildId=lPURg2bz8dNasUtjogjhX&assetPrefix=&generateEtags=true&poweredByHeader=true&canonicalBase=&basePath=&runtimeConfig=&previewProps=%7B%22previewModeId%22%3A%2291eb72a1dbc4e4697d7f47459823d8c1%22%2C%22previewModeSigningKey%22%3A%22771be79874a3cdee486324a16f26e4bd816feeced5e798e28c4ab950226456c2%22%2C%22previewModeEncryptionKey%22%3A%22f68bdec14af578ae8f9e911455e742ab94c6b33095321692360a65704fa54080%22%7D&loadedEnvFiles=W10%3D&i18n=%7B%22locales%22%3A%5B%22en%22%5D%2C%22defaultLocale%22%3A%22en%22%7D!
+;// CONCATENATED MODULE: ./node_modules/next/dist/build/webpack/loaders/next-serverless-loader/index.js?page=%2Fapi%2Fhello&absolutePagePath=private-next-pages%2Fapi%2Fhello.js&absoluteAppPath=private-next-pages%2F_app.js&absoluteDocumentPath=private-next-pages%2F_document.js&absoluteErrorPath=next%2Fdist%2Fpages%2F_error&absolute404Path=&distDir=private-dot-next&buildId=oXNIHHdZsAouMjLvDauuG&assetPrefix=&generateEtags=true&poweredByHeader=true&canonicalBase=&basePath=&runtimeConfig=&previewProps=%7B%22previewModeId%22%3A%22084d45e1af40526fe14ab98738d09e81%22%2C%22previewModeSigningKey%22%3A%2213c9db85d87087a8866ade9f72bfaedfd56d3e26778c87b090e61eabdf26bfb9%22%2C%22previewModeEncryptionKey%22%3A%22e2a62d10ce969438a71566ef3372e429ab9e73048306ebf47d436dd6ff3fb204%22%7D&loadedEnvFiles=W10%3D&i18n=%7B%22locales%22%3A%5B%22en%22%5D%2C%22defaultLocale%22%3A%22en%22%7D!
 
         
       const { processEnv } = __webpack_require__(2333)
@@ -66,9 +66,9 @@ var api_handler = __webpack_require__(8277);
           page: "/api/hello",
           basePath: "",
           pageIsDynamic: false,
-          encodedPreviewProps: {previewModeId:"91eb72a1dbc4e4697d7f47459823d8c1",previewModeSigningKey:"771be79874a3cdee486324a16f26e4bd816feeced5e798e28c4ab950226456c2",previewModeEncryptionKey:"f68bdec14af578ae8f9e911455e742ab94c6b33095321692360a65704fa54080"}
+          encodedPreviewProps: {previewModeId:"084d45e1af40526fe14ab98738d09e81",previewModeSigningKey:"13c9db85d87087a8866ade9f72bfaedfd56d3e26778c87b090e61eabdf26bfb9",previewModeEncryptionKey:"e2a62d10ce969438a71566ef3372e429ab9e73048306ebf47d436dd6ff3fb204"}
         })
-        /* harmony default export */ var next_serverless_loaderpage_2Fapi_2Fhello_absolutePagePath_private_next_pages_2Fapi_2Fhello_js_absoluteAppPath_private_next_pages_2F_app_js_absoluteDocumentPath_private_next_pages_2F_document_js_absoluteErrorPath_next_2Fdist_2Fpages_2F_error_absolute404Path_distDir_private_dot_next_buildId_lPURg2bz8dNasUtjogjhX_assetPrefix_generateEtags_true_poweredByHeader_true_canonicalBase_basePath_runtimeConfig_previewProps_7B_22previewModeId_22_3A_2291eb72a1dbc4e4697d7f47459823d8c1_22_2C_22previewModeSigningKey_22_3A_22771be79874a3cdee486324a16f26e4bd816feeced5e798e28c4ab950226456c2_22_2C_22previewModeEncryptionKey_22_3A_22f68bdec14af578ae8f9e911455e742ab94c6b33095321692360a65704fa54080_22_7D_loadedEnvFiles_W10_3D_i18n_7B_22locales_22_3A_5B_22en_22_5D_2C_22defaultLocale_22_3A_22en_22_7D_ = (apiHandler);
+        /* harmony default export */ var next_serverless_loaderpage_2Fapi_2Fhello_absolutePagePath_private_next_pages_2Fapi_2Fhello_js_absoluteAppPath_private_next_pages_2F_app_js_absoluteDocumentPath_private_next_pages_2F_document_js_absoluteErrorPath_next_2Fdist_2Fpages_2F_error_absolute404Path_distDir_private_dot_next_buildId_oXNIHHdZsAouMjLvDauuG_assetPrefix_generateEtags_true_poweredByHeader_true_canonicalBase_basePath_runtimeConfig_previewProps_7B_22previewModeId_22_3A_22084d45e1af40526fe14ab98738d09e81_22_2C_22previewModeSigningKey_22_3A_2213c9db85d87087a8866ade9f72bfaedfd56d3e26778c87b090e61eabdf26bfb9_22_2C_22previewModeEncryptionKey_22_3A_22e2a62d10ce969438a71566ef3372e429ab9e73048306ebf47d436dd6ff3fb204_22_7D_loadedEnvFiles_W10_3D_i18n_7B_22locales_22_3A_5B_22en_22_5D_2C_22defaultLocale_22_3A_22en_22_7D_ = (apiHandler);
       
 
 /***/ }),
@@ -231,7 +231,7 @@ module.exports = require("zlib");;
 /******/ 	__webpack_require__.x = function() {
 /******/ 		// Load entry module and return exports
 /******/ 		// This entry module depends on other loaded chunks and execution need to be delayed
-/******/ 		var __webpack_exports__ = __webpack_require__.O(undefined, [894,940], function() { return __webpack_require__(2095); })
+/******/ 		var __webpack_exports__ = __webpack_require__.O(undefined, [894,940], function() { return __webpack_require__(3169); })
 /******/ 		__webpack_exports__ = __webpack_require__.O(__webpack_exports__);
 /******/ 		return __webpack_exports__;
 /******/ 	};
